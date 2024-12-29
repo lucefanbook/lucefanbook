@@ -16,8 +16,6 @@ Traditionally, the Chaplet of the Holy Spirit is prayed using a chaplet specific
 
 ## Adaptation for Marian Rosary
 
-### To pray the Chaplet of the Holy Spirit on a 5-decade rosary:
-
  * Assign one gift of the Holy Spirit to each decade, starting with the first five gifts.
  * Continue the sixth and seventh gifts on the first and second decades (repeated) after completing the fifth decade.
  * Pray reflective invocations or meditations on the Holy Spirit during each decade.
