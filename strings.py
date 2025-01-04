@@ -65,6 +65,10 @@ O clement, O loving, O sweet Virgin Mary.
 Pray for us, O holy Mother of God,  
 that we may be made worthy of the promises of Christ."""
 
+jesus_prayer = """Lord Jesus Christ, Son of God, have mercy on me, a sinner."""
+
+collect_prayer = """O God, Whose only begotten Son, by His life, death, and resurrection has purchased for us the rewards of eternal life; grant, we beseech Thee, that meditating upon these mysteries of the most Holy Rosary of the Blessed Virgin Mary, we may imitate what they contain, and obtain what they promise, through the same Christ our Lord. Amen."""
+
 act_of_contrition = """My God, I am sorry for my sins with all my heart.  
 In choosing to do wrong and failing to do good,  
 I have sinned against you whom I should love above all things.  
@@ -86,6 +90,13 @@ to thee do I come; before thee I stand, sinful and sorrowful.
 O Mother of the Word Incarnate,  
 despise not my petitions,  
 but in thy mercy, hear and answer me. Amen."""
+
+angels_reparation_prayer = """O Most Holy Trinity, Father, Son, and Holy Spirit,  
+I adore You profoundly, and I offer You the most Precious Body, Blood, Soul, and Divinity of Jesus Christ,  
+present in all the tabernacles of the world,  
+in reparation for the outrages, sacrileges, and indifferences by which He is offended.  
+By the infinite merits of the Sacred Heart of Jesus and the Immaculate Heart of Mary,  
+I beg the conversion of poor sinners."""
 
 morning_offerings = """O Jesus, through the Immaculate Heart of Mary,  
 I offer You my prayers, works, joys, and sufferings of this day,  
@@ -114,6 +125,11 @@ please accept it.
 Watch over me as I take my rest,  
 and deliver me from danger.  
 May Your grace be always with me. Amen."""
+
+trisagion = """Holy God,  
+Holy Mighty One,  
+Holy Immortal One,  
+have mercy on us and on the whole world."""
 
 joyful_annunciation = """**Scriptural Reference:** Luke 1:26-38
 

@@ -15,7 +15,7 @@ Describe how the chaplet has been modified to fit a 5-decade rosary. If the chap
 
 ### Sign of the Cross
 
-"In the name of the Father, and of the Son, and of the Holy Spirit. Amen."
+{{ sotc }}
 
 ### Opening Prayers
 
@@ -41,78 +41,78 @@ Write the prayer here.
 
 Write the prayer here.
 
-#### On the last large bead (prayer name)
+#### End of the Opening Prayers (prayer name)
 
 Write the prayer here.
 
 ### First decade
 
-#### On the large bead
- 
+#### On the large bead (prayer name)
+
 Describe the prayers or invocations recited on the large bead.
- 
-#### On each small beads
- 
+
+#### On each small beads (prayer name)
+
 Describe the instructions for prayers on the small beads
- 
-#### End of the decade
- 
+
+#### End of the decade (prayer name)
+
 Describe the prayers or reflections concluding the decade.
 
-### Second decade
+### Second decade (prayer name)
 
 #### On the large bead
- 
+
 Describe the prayers or invocations recited on the large bead.
- 
-#### On each small beads
- 
+
+#### On each small beads (prayer name)
+
 Describe the instructions for prayers on the small beads
- 
-#### End of the decade
- 
+
+#### End of the decade (prayer name)
+
 Describe the prayers or reflections concluding the decade.
 
 ### Third decade
 
-#### On the large bead
- 
+#### On the large bead (prayer name)
+
 Describe the prayers or invocations recited on the large bead.
- 
-#### On each small beads
- 
+
+#### On each small beads (prayer name)
+
 Describe the instructions for prayers on the small beads
- 
-#### End of the decade
- 
+
+#### End of the decade (prayer name)
+
 Describe the prayers or reflections concluding the decade.
 
 ### Fourth decade
 
-#### On the large bead
- 
+#### On the large bead (prayer name)
+
 Describe the prayers or invocations recited on the large bead.
- 
-#### On each small beads
- 
+
+#### On each small beads (prayer name)
+
 Describe the instructions for prayers on the small beads
- 
-#### End of the decade
- 
+
+#### End of the decade (prayer name)
+
 Describe the prayers or reflections concluding the decade.
 
 ### Fifth decade
 
-#### On the large bead
- 
+#### On the large bead (prayer name)
+
 Describe the prayers or invocations recited on the large bead.
- 
-#### On each small beads
- 
+
+#### On each small beads (prayer name)
+
 Describe the instructions for prayers on the small beads
- 
-#### End of the decade
- 
+
+#### End of the decade (prayer name)
+
 Describe the prayers or reflections concluding the decade.
 
 If the chaplet has more than 5 decades, continue the chaplet using the first decade as the sixth, the second as the seventh, etc.
@@ -123,4 +123,4 @@ Specify the prayer or act of consecration after completing the chaplet.
 
 ### Final Sign of the Cross
 
-"In the name of the Father, and of the Son, and of the Holy Spirit. Amen."
+{{ sotc }}

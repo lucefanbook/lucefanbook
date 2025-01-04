@@ -22,7 +22,7 @@ The Sorrowful Mysteries focus on the passion and death of Jesus Christ, offering
 
 {{ hail_mary }}
 
-#### On the last large bead (Glory Be)
+#### End of the Opening Prayers (Glory Be)
 
 {{ glory_be }}
 

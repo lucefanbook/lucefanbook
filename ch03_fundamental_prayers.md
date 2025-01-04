@@ -24,7 +24,7 @@
 
 {{ hail_mary }}
 
-## The Glory Be
+## The Glory Be / Doxology
 
 {{ glory_be }}
 
@@ -32,9 +32,19 @@
 
 {{ fatima_prayer }}
 
+{{ angels_reparation_prayer }}
+
 ## The Hail, Holy Queen (Salve Regina)
 
 {{ hail_holy_queen }}
+
+## The Jesus Prayer
+
+{{ jesus_prayer }}
+
+## Collect after the Rosary
+
+{{ collect_prayer }}
 
 ## Act of Contrition
 

@@ -22,7 +22,7 @@ The Glorious Mysteries focus on the triumphs and glory of Jesus Christ and the B
 
 {{ hail_mary }}
 
-#### On the last large bead (Glory Be)
+#### End of the Opening Prayers (Glory Be)
 
 {{ glory_be }}
 

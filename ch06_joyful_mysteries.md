@@ -24,7 +24,7 @@ Praying the Joyful Mysteries on the Rosary involves meditating on five key event
 
 {{ hail_mary }}
 
-#### On the last large bead (Glory Be)
+#### End of the Opening Prayers (Glory Be)
 
 {{ glory_be }}
 

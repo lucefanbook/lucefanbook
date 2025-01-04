@@ -20,9 +20,13 @@ After the crucifix, this bead is for praying the Our Father (also known as the L
 
 Following the first large bead, these are for praying three Hail Marys, traditionally offered for an increase in the theological virtues of faith, hope, and charity.
 
+#### The Space between the Small and Large Bead:
+
+Concluding the opening prayers, this space or chain link is for praying the Glory Be (also called the Doxology), praising the Holy Trinity.
+
 #### Another Large Bead:
 
-Concluding the opening prayers, this bead is for praying the Glory Be (also called the Doxology), praising the Holy Trinity.
+This bead serve as the large bead of the first decade.
 
 ### 3. The Decades
 
@@ -40,7 +44,7 @@ These beads are for the Hail Mary, recited ten times as a form of meditation on 
 
 #### The Space Between Decades:
 
-After the ten Hail Marys, a Glory Be is recited, often followed by the optional Fatima Prayer.
+After the ten Hail Marys, a Glory Be is recited on this space or chain link, often followed by the optional Fatima Prayer.
 
 ### 4. The Centerpiece (or Medal)
 

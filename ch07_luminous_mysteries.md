@@ -22,7 +22,7 @@ The Luminous Mysteries, also known as the Mysteries of Light, were introduced by
 
 {{ hail_mary }}
 
-#### On the last large bead (Glory Be)
+#### End of the Opening Prayers (Glory Be)
 
 {{ glory_be }}
 
